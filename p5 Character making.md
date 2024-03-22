@@ -19,7 +19,7 @@
 ***
 #코드
 <pre>
-  ```javascript
+  ```js
   
   ```
 </pre>
