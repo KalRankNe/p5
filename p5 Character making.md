@@ -18,7 +18,6 @@
 </pre>
 ***
 #코드
-<pre>
   ```js
   function setup() {
   createCanvas(700,700);
@@ -191,4 +190,3 @@ function pig() {
   ellipse( 0, 15, 20, 10)
 }
   ```
-</pre>
