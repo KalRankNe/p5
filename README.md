@@ -4,7 +4,7 @@
 ## 결과물 링크
 <https://kalrankne.github.io/p5/>
 ***
-
+<img width="{해상도 비율}" src="{이미지 경로}"/>
 ***
 ## 코드
   ```js
