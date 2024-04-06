@@ -7,7 +7,7 @@
 <img width="{해상도 비율}" src="p5.js-Terrain.gif"/>
 ***
 ## 코드
-  ```js
+```js
 let cols, rows;
 let scl = 20;
 let w = 1200;
@@ -113,4 +113,4 @@ function boat(){
   vertex(210 , 123)
   endShape()
 }
-  ```
+```
