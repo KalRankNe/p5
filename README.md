@@ -4,7 +4,7 @@
 ## 결과물 링크
 <https://kalrankne.github.io/p5/>
 ***
-<img width="{해상도 비율}" src="{p5.js-Terrain.gif}"/>
+<img width="{해상도 비율}" src="p5.js-Terrain.gif"/>
 ***
 ## 코드
   ```js
